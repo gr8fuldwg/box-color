@@ -1,0 +1,33 @@
+.App-header {
+  display: flex;
+  justify-content: center;
+  align-content: center;
+}
+.App-main {
+  display: flex;
+  justify-content: center;
+  align-content: center;
+  flex-direction: column;
+  flex-grow: 1;
+}
+.App-footer {
+  
+}
+.App-footer p {
+
+}
+.App-container {
+
+}
+.box {
+  width: 15rem;
+  height: 15rem;
+  border: 1px solid black;
+  margin: 1rem;
+}
+.App-color-selector {
+
+}
+.title {
+
+}
